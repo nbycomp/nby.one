@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <meta name="go-import" content="nby.one/rest git https://github.com/nbycomp/REST-Operator">
+        <meta http-equiv="refresh" content="0;URL='https://github.com/nbycomp/REST-Operator'">
+    </head>
+
+    <body>
+    Redirecting you to the <a href="https://github.com/nbycomp/REST-Operator">project page</a>...
+    </body>
+</html>
